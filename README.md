@@ -83,21 +83,6 @@ I'm also exploring AI-powered applications focused on image editing, content gen
 
 ---
 
-## 📊 GitHub Stats
-
-<p>
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=azadgasimzada&show_icons=true&theme=tokyonight&hide_border=true"
-    height="180"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=azadgasimzada&layout=compact&theme=tokyonight&hide_border=true"
-    height="180"
-  />
-</p>
-
----
-
 ## 🔥 GitHub Streak
 
 <p>

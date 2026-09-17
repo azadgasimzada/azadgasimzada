@@ -1,16 +1,115 @@
-## Hi there 👋
+<h1>Hi 👋, I'm Azad Gasimzade</h1>
 
-<!--
-**azadgasimzada/azadgasimzada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>Frontend Developer from Azerbaijan 🇦🇿</h3>
 
-Here are some ideas to get you started:
+<p>
+  I build modern web and mobile applications with React, Next.js and React Native.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <a href="https://github.com/azadgasimzada">
+    <img src="https://komarev.com/ghpvc/?username=azadgasimzada&label=Profile%20Views&color=0e75b6&style=flat" alt="azadgasimzada" />
+  </a>
+</p>
+
+---
+
+## 🚀 About Me
+
+- 💻 Frontend Developer
+- ⚛️ React & Next.js enthusiast
+- 📱 Building mobile applications with React Native & Expo
+- 🧠 Currently learning and exploring AI-powered applications
+- 🛠️ I enjoy building real-world products
+- 🇦🇿 Based in Azerbaijan
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+</p>
+
+### Mobile
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,expo" />
+</p>
+
+### Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,appwrite,mongodb" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 📱 AzEntra
+
+A mobile services marketplace connecting customers with professional service providers.
+
+**Tech:** React Native · Expo · TypeScript · Appwrite · Cloudinary
+
+<p>
+  <a href="https://github.com/azadgasimzada">
+    <img src="https://img.shields.io/badge/GitHub-View%20Project-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+### 🤖 AI Applications
+
+I'm also exploring AI-powered applications focused on image editing, content generation and intelligent user experiences.
+
+**Tech:** React · Next.js · TypeScript · AI APIs
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=azadgasimzada&show_icons=true&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azadgasimzada&layout=compact&hide_border=true" height="180"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p>
+  <img src="https://streak-stats.demolab.com?user=azadgasimzada&hide_border=true" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p>
+  <a href="https://github.com/azadgasimzada">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p>
+  <i>Building things, learning new technologies and turning ideas into products 🚀</i>
+</p>

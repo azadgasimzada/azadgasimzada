@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Azad Gasimzade</h1>
+<h1>Hi 👋, I'm Azad Gasimzada</h1>
 
 <h3>Frontend Developer from Azerbaijan 🇦🇿</h3>
 

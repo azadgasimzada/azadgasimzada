@@ -6,12 +6,6 @@
   I build modern web and mobile applications with React, Next.js and React Native.
 </p>
 
-<p>
-  <a href="https://github.com/azadgasimzada">
-    <img src="https://komarev.com/ghpvc/?username=azadgasimzada&label=Profile%20Views&color=0e75b6&style=flat" alt="azadgasimzada" />
-  </a>
-</p>
-
 ---
 
 ## 🚀 About Me

@@ -88,6 +88,13 @@ I'm also exploring AI-powered applications focused on image editing, content gen
 ## 🤝 Connect With Me
 
 <p>
+  E-mail: 
+  <a href="mailto:azad.gasimzade@gmail.com">
+    azad.gasimzade@gmail.com
+  </a>
+</p>
+
+<p>
   <a href="https://github.com/azadgasimzada">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>

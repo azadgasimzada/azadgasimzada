@@ -53,7 +53,7 @@
 
 A mobile services marketplace connecting customers with professional service providers.
 
-**Tech:** React Native · Expo · TypeScript · Appwrite · Cloudinary
+**Tech:** React Native · Expo · TypeScript · Appwrite
 
 <p>
   <a href="https://github.com/azadgasimzada">

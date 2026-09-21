@@ -27,16 +27,10 @@
 
 ## 🛠️ Tech Stack
 
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css" />
-</p>
-
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,tailwind,mui,bootstrap,sass,css,figma," />
 </p>
 
 ### Mobile
@@ -48,7 +42,7 @@
 ### Backend & Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,appwrite,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,appwrite,mongodb,firebase" />
 </p>
 
 ### Tools
